@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "803106172284",
+    "project_id": "se7tey-e39ea",
+    "storage_bucket": "se7tey-e39ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:803106172284:android:2acfa73dcd2b29110a88f9",
+        "android_client_info": {
+          "package_name": "com.example.se7tey"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-rjoh5p-35znHh1lQy7_D9Txxw8MypZk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
